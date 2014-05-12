@@ -1,3 +1,3 @@
-# sails0.10.0-rc5
+# v0.10.0-rc6
 
 a [Sails](http://sailsjs.org) application
