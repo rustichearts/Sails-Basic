@@ -1,11 +1,11 @@
 {
-  "name": "v0.10.0-rc10",
+  "name": "v0.10.0-rc11",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-    "sails": "~0.10.0-rc10",
+    "sails": "~0.10.0-rc11",
     "sails-disk": "~0.10.0",
     "rc": "~0.3.3",
     "include-all": "~0.1.3",
@@ -61,6 +61,6 @@
     "type": "git",
     "url": "git@github.com:rustichearts/Sails-Basic.git"
   },
-  "author": "kamiya",
+  "author": "k5m",
   "license": ""
 }
