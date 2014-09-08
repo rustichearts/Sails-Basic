@@ -1,3 +1,3 @@
-# v0.10.4
+# v0.10.5
 
 a [Sails](http://sailsjs.org) application
